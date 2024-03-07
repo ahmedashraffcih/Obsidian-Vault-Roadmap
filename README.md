@@ -4,7 +4,7 @@ This document outlines a comprehensive road map for data engineering, covering v
 
 ## Flow
 ![Roadmap](https://github.com/ahmedashraffcih/Obsidian-Vault-Roadmap/blob/main/data_engineering_road_map.png)
-
+![Graph Roadmap](https://github.com/ahmedashraffcih/Obsidian-Vault-Roadmap/blob/main/graph_road_map.png)
 ## Authors
 
 👤 **Ahmed Ashraf**
