@@ -4,42 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "452ba3c00b6a597f",
+        "id": "b868b8ae5eef141c",
         "type": "tabs",
-        "dimension": 62.93604651162791,
         "children": [
           {
-            "id": "76cb9fca5d7ff3fd",
+            "id": "c62f71742932464c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a5316f913efe2cdd",
-        "type": "tabs",
-        "dimension": 37.06395348837209,
-        "children": [
-          {
-            "id": "dd256941173fbdb2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Roadmaps/Data Engineering Road Map.canvas",
-                "viewState": {
-                  "x": 175.70046353401676,
-                  "y": 1184.7736669221013,
-                  "zoom": -0.727809510129861
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -114,7 +87,7 @@
             }
           },
           {
-            "id": "dc9686623a07c219",
+            "id": "63e981b6f7c7d89a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -126,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5
+    "width": 434.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,11 +111,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76cb9fca5d7ff3fd",
+  "active": "c62f71742932464c",
   "lastOpenFiles": [
-    "graph_road_map.png",
+    "Links/Resources.md",
+    "Roadmaps/Resources/concepts/Master Data Managment.md",
+    "Roadmaps/Resources/concepts/Data Architectures.md",
+    "Roadmaps/Resources/concepts/Document Managment.md",
+    "Roadmaps/Resources/concepts/Data Governance.md",
+    "Roadmaps/Resources/concepts/DataOps.md",
+    "Roadmaps/Resources/concepts/Data Performance.md",
+    "Roadmaps/Resources/concepts/Data Security.md",
+    "Roadmaps/Resources/concepts/Data Lineage.md",
+    "Roadmaps/Resources/concepts/Data Quality.md",
+    "Links/Concepts.md",
+    "Roadmaps/Resources/concepts",
+    "Roadmaps/Data Engineering Road Map.canvas",
     "Links/Intermediate.md",
     "Links/Advanced.md",
+    "Roadmaps/Resources/Mandatory/Data Warehouse.md",
+    "README.md",
+    "graph_road_map.png",
     "Roadmaps/Resources/Advanced/Stream Processing.md",
     "Roadmaps/Resources/Advanced/Cloud Engineering.md",
     "Roadmaps/Resources/Intermediate/Orchestration.md",
@@ -151,23 +139,17 @@
     "Roadmaps/Resources/Mandatory/Linux.md",
     "Links/Mandatory.md",
     "Roadmaps/Resources/Mandatory/ETL.md",
-    "Roadmaps/Resources/Mandatory/Data Warehouse.md",
     "Roadmaps/Resources/Mandatory/Databases.md",
     "Roadmaps/Resources/Mandatory/SQL.md",
     "Roadmaps/Resources/Mandatory/Python.md",
-    "Roadmaps/Data Engineering Road Map.canvas",
-    "Links/Resources.md",
     "Roadmaps/Resources/Advanced",
     "Roadmaps/Resources/Intermediate",
     "Roadmaps/Resources/Mandatory",
     "Links",
-    "README.md",
     "Roadmaps/BI Road Map.canvas",
     "Roadmaps/Resources",
     "data_engineering_road_map.png",
     "Roadmaps",
-    "Road Map/Data Engineering Road Map.md",
-    "Data Engineering/Hadoop.md",
     "Road Map",
     "Data Engineering"
   ]
