@@ -15,9 +15,9 @@
               "state": {
                 "file": "Roadmaps/Data Engineering Road Map.canvas",
                 "viewState": {
-                  "x": 55.45262822980219,
-                  "y": 708.4973411689411,
-                  "zoom": -1.0611428434631942
+                  "x": 417.7692800878345,
+                  "y": 654.8155993606097,
+                  "zoom": -1.3944761767965275
                 }
               }
             }
@@ -157,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4eadc1ec80c5a1ea",
+  "active": "88ce7b56c1e924f1",
   "lastOpenFiles": [
+    "data_engineering_road_map.png",
     "Roadmaps",
     "Road Map/Data Engineering Road Map.md",
     "Roadmaps/Data Engineering Road Map.canvas",
