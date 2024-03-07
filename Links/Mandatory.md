@@ -1,0 +1,6 @@
+[[SQL]]
+[[Python]]
+[[Linux]]
+[[Databases]]
+[[Data Warehouse]]
+[[ETL]]

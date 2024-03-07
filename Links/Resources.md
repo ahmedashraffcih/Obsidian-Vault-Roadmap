@@ -1,0 +1,3 @@
+[[Mandatory]]
+[[Intermediate]]
+[[Advanced]]

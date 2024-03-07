@@ -4,20 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "d8fdf95992e1fd15",
+        "id": "452ba3c00b6a597f",
         "type": "tabs",
+        "dimension": 62.93604651162791,
         "children": [
           {
-            "id": "88ce7b56c1e924f1",
+            "id": "76cb9fca5d7ff3fd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a5316f913efe2cdd",
+        "type": "tabs",
+        "dimension": 37.06395348837209,
+        "children": [
+          {
+            "id": "dd256941173fbdb2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Roadmaps/Data Engineering Road Map.canvas",
                 "viewState": {
-                  "x": 417.7692800878345,
-                  "y": 654.8155993606097,
-                  "zoom": -1.3944761767965275
+                  "x": 175.70046353401676,
+                  "y": 1184.7736669221013,
+                  "zoom": -0.727809510129861
                 }
               }
             }
@@ -72,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed92186f2244f412",
@@ -82,35 +99,6 @@
         "id": "3df8ea044df5f664",
         "type": "tabs",
         "children": [
-          {
-            "id": "c584415e9b3aa9c8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Roadmaps/Data Engineering Road Map.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "728810c2248a55d1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Roadmaps/Data Engineering Road Map.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "1df0261820d45bc0",
             "type": "leaf",
@@ -123,17 +111,7 @@
             }
           },
           {
-            "id": "3adbeb83c9a1af33",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Roadmaps/Data Engineering Road Map.canvas"
-              }
-            }
-          },
-          {
-            "id": "4eadc1ec80c5a1ea",
+            "id": "dc9686623a07c219",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -141,11 +119,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 623.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,12 +135,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88ce7b56c1e924f1",
+  "active": "76cb9fca5d7ff3fd",
   "lastOpenFiles": [
+    "graph_road_map.png",
+    "Links/Intermediate.md",
+    "Links/Advanced.md",
+    "Roadmaps/Resources/Advanced/Stream Processing.md",
+    "Roadmaps/Resources/Advanced/Cloud Engineering.md",
+    "Roadmaps/Resources/Intermediate/Orchestration.md",
+    "Roadmaps/Resources/Intermediate/Distributed Systems.md",
+    "Roadmaps/Resources/Intermediate/Spark.md",
+    "Roadmaps/Resources/Mandatory/Linux.md",
+    "Links/Mandatory.md",
+    "Roadmaps/Resources/Mandatory/ETL.md",
+    "Roadmaps/Resources/Mandatory/Data Warehouse.md",
+    "Roadmaps/Resources/Mandatory/Databases.md",
+    "Roadmaps/Resources/Mandatory/SQL.md",
+    "Roadmaps/Resources/Mandatory/Python.md",
+    "Roadmaps/Data Engineering Road Map.canvas",
+    "Links/Resources.md",
+    "Roadmaps/Resources/Advanced",
+    "Roadmaps/Resources/Intermediate",
+    "Roadmaps/Resources/Mandatory",
+    "Links",
+    "README.md",
+    "Roadmaps/BI Road Map.canvas",
+    "Roadmaps/Resources",
     "data_engineering_road_map.png",
     "Roadmaps",
     "Road Map/Data Engineering Road Map.md",
-    "Roadmaps/Data Engineering Road Map.canvas",
     "Data Engineering/Hadoop.md",
     "Road Map",
     "Data Engineering"
