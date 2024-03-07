@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "7d316c3a973ccffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8fdf95992e1fd15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88ce7b56c1e924f1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Roadmaps/Data Engineering Road Map.canvas",
+                "viewState": {
+                  "x": 55.45262822980219,
+                  "y": 708.4973411689411,
+                  "zoom": -1.0611428434631942
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b896d0ab927d4a08",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3a9ffa6977ba7de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a4b35aa6a02b62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25817f9342f3e24e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "101941a4ed7f6738",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed92186f2244f412",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df8ea044df5f664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c584415e9b3aa9c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roadmaps/Data Engineering Road Map.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "728810c2248a55d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roadmaps/Data Engineering Road Map.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1df0261820d45bc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3adbeb83c9a1af33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roadmaps/Data Engineering Road Map.canvas"
+              }
+            }
+          },
+          {
+            "id": "4eadc1ec80c5a1ea",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4eadc1ec80c5a1ea",
+  "lastOpenFiles": [
+    "Roadmaps",
+    "Road Map/Data Engineering Road Map.md",
+    "Roadmaps/Data Engineering Road Map.canvas",
+    "Data Engineering/Hadoop.md",
+    "Road Map",
+    "Data Engineering"
+  ]
+}

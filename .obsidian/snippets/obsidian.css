@@ -1,0 +1,34 @@
+/* Example CSS for styling the Twitter button */
+/* Adjust as needed */
+
+/* Center align the button */
+a.twitter-button {
+    display: inline-block;
+    text-align: center;
+}
+
+/* Add margin between icon and text */
+.twitter-button i {
+    margin-right: 5px;
+}
+
+/* Customize Twitter icon color */
+.twitter-button i {
+    color: #1da1f2; /* Twitter blue */
+}
+
+/* Style button text */
+.twitter-button {
+    color: #1da1f2; /* Twitter blue */
+    background-color: transparent;
+    border: 1px solid #1da1f2; /* Twitter blue */
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.twitter-button:hover {
+    background-color: #1da1f2; /* Twitter blue */
+    color: white;
+}
