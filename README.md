@@ -3,7 +3,7 @@
 This document outlines a comprehensive road map for data engineering, covering various concepts and topics categorized into different levels of expertise.
 
 ## Flow
-![Roadmap](https://github.com/ahmedashraffcih/Obsidian-Vault-Roadmap/blob/main/data_engineering_road_map_v2.png)
+![Roadmap](https://github.com/ahmedashraffcih/Obsidian-Vault-Roadmap/blob/main/data_engineering_road_map.png)
 ![Graph Roadmap](https://github.com/ahmedashraffcih/Obsidian-Vault-Roadmap/blob/main/graph_road_map.png)
 ## Authors
 

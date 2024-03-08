@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79a6b4c74c8d179d",
+        "id": "3ae8eb18ac1497d8",
         "type": "tabs",
         "children": [
           {
-            "id": "dd4bbda7849d4708",
+            "id": "5146da7dc7630ff8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "data_engineering_road_map.png"
+                "file": "Roadmaps/Data Engineering Road Map.canvas",
+                "viewState": {
+                  "x": 65,
+                  "y": 1290.4402515723268,
+                  "zoom": -1.4982241016343565
+                }
               }
             }
           }
@@ -102,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_engineering_road_map.png",
+                "file": "Roadmaps/Data Engineering Road Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_engineering_road_map.png",
+                "file": "Roadmaps/Data Engineering Road Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_engineering_road_map.png"
+                "file": "Roadmaps/Data Engineering Road Map.canvas"
               }
             }
           }
@@ -152,12 +157,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd4bbda7849d4708",
+  "active": "5146da7dc7630ff8",
   "lastOpenFiles": [
-    "Roadmaps/Data Engineering Road Map.canvas",
     "data_engineering_road_map.png",
-    "Roadmaps/BI Road Map.canvas",
+    "Data Engineering Road Map.png",
+    "Roadmaps/Data Engineering Road Map.canvas",
     "Roadmaps/Data Analysis Road Map.canvas",
+    "Roadmaps/BI Road Map.canvas",
+    "graph_road_map.png",
     "Links/Resources.md",
     "Links/Mandatory.md",
     "Links/Intermediate.md",
@@ -184,7 +191,6 @@
     "Roadmaps/Resources/concepts/Data Quality.md",
     "Roadmaps/Resources/concepts",
     "Links/Advanced.md",
-    "graph_road_map.png",
     "Roadmaps/Resources/Advanced",
     "Roadmaps/Resources/Intermediate",
     "Roadmaps/Resources/Mandatory",
