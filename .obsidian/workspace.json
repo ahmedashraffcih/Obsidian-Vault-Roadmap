@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b868b8ae5eef141c",
+        "id": "79a6b4c74c8d179d",
         "type": "tabs",
         "children": [
           {
-            "id": "c62f71742932464c",
+            "id": "dd4bbda7849d4708",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "data_engineering_road_map.png"
+              }
             }
           }
         ]
@@ -93,6 +95,45 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "d4e870bf4f458f99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "data_engineering_road_map.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "050d9a0cbd4899cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "data_engineering_road_map.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79639059512a8378",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "data_engineering_road_map.png"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -111,9 +152,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c62f71742932464c",
+  "active": "dd4bbda7849d4708",
   "lastOpenFiles": [
+    "Roadmaps/Data Engineering Road Map.canvas",
+    "data_engineering_road_map.png",
+    "Roadmaps/BI Road Map.canvas",
+    "Roadmaps/Data Analysis Road Map.canvas",
     "Links/Resources.md",
+    "Links/Mandatory.md",
+    "Links/Intermediate.md",
+    "Links/Concepts.md",
+    "Roadmaps/Resources/General.md",
+    "Roadmaps/Resources/Mandatory/Databases.md",
+    "Roadmaps/Resources/Mandatory/SQL.md",
+    "Roadmaps/Resources/Advanced/Cloud Engineering.md",
+    "Roadmaps/Resources/Advanced/Stream Processing.md",
+    "Roadmaps/Resources/Intermediate/Orchestration.md",
+    "Roadmaps/Resources/Mandatory/Linux.md",
+    "Roadmaps/Resources/Intermediate/Distributed Systems.md",
+    "Roadmaps/Resources/Intermediate/Spark.md",
+    "Roadmaps/Resources/Mandatory/Data Warehouse.md",
+    "Roadmaps/Resources/Mandatory/Python.md",
     "Roadmaps/Resources/concepts/Master Data Managment.md",
     "Roadmaps/Resources/concepts/Data Architectures.md",
     "Roadmaps/Resources/concepts/Document Managment.md",
@@ -123,32 +182,14 @@
     "Roadmaps/Resources/concepts/Data Security.md",
     "Roadmaps/Resources/concepts/Data Lineage.md",
     "Roadmaps/Resources/concepts/Data Quality.md",
-    "Links/Concepts.md",
     "Roadmaps/Resources/concepts",
-    "Roadmaps/Data Engineering Road Map.canvas",
-    "Links/Intermediate.md",
     "Links/Advanced.md",
-    "Roadmaps/Resources/Mandatory/Data Warehouse.md",
-    "README.md",
     "graph_road_map.png",
-    "Roadmaps/Resources/Advanced/Stream Processing.md",
-    "Roadmaps/Resources/Advanced/Cloud Engineering.md",
-    "Roadmaps/Resources/Intermediate/Orchestration.md",
-    "Roadmaps/Resources/Intermediate/Distributed Systems.md",
-    "Roadmaps/Resources/Intermediate/Spark.md",
-    "Roadmaps/Resources/Mandatory/Linux.md",
-    "Links/Mandatory.md",
-    "Roadmaps/Resources/Mandatory/ETL.md",
-    "Roadmaps/Resources/Mandatory/Databases.md",
-    "Roadmaps/Resources/Mandatory/SQL.md",
-    "Roadmaps/Resources/Mandatory/Python.md",
     "Roadmaps/Resources/Advanced",
     "Roadmaps/Resources/Intermediate",
     "Roadmaps/Resources/Mandatory",
     "Links",
-    "Roadmaps/BI Road Map.canvas",
     "Roadmaps/Resources",
-    "data_engineering_road_map.png",
     "Roadmaps",
     "Road Map",
     "Data Engineering"

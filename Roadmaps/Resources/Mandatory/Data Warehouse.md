@@ -1,0 +1,5 @@
+- [Garage Education](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)
+- Data Modeling Essentials, 3rd edition **Advanced** (Chapters 1,2,3,5,6,8,10,11,12)
+- The Data Warehouse Toolkit (Chapters 1,2,3,4,5)
+- [Bank Data Model](https://dwbi1.wordpress.com/2012/04/28/bank-data-model/)
+- [Data Warehousing Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEDSc5QEbI8WYVV_EbWKJwX)

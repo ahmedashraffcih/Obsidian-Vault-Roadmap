@@ -1,0 +1,6 @@
+- [Spark Foundation Training](https://www.learningjournal.guru/courses/spark/spark-foundation-training/)
+- [Apache Spark & Scala Tutorial Videos (2022 Updated)](https://www.youtube.com/playlist?list=PLEiEAq2VkUUK3tuBXyd01meHuDj7RLjHv)
+- [Spark Fundamentals](https://cognitiveclass.ai/courses/what-is-spark)
+- [SparkByExamples - Spark Tutorials](https://sparkbyexamples.com/pyspark-tutorial/)
+- "Learning Spark"
+- "Apache Spark with Python - Big Data with PySpark and Spark" (Course)
